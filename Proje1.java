@@ -53,6 +53,3 @@ public class Proje1 {
         }
     }
 
-//2
-    System.out.println("")
-}
